@@ -1,0 +1,52 @@
+############# French navigation ##############
+
+# main menu
+[[main]]
+name = "Accueil"
+url = ""
+weight = 1
+
+[[main]]
+name = "Offre de logement"
+url = "logement/"
+weight = 2
+
+[[main]]
+name = "Galerie photos"
+url = "photos/"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[main]]
+weight = 4
+name = "Nous aider"
+hasChildren = true
+
+  [[main]]
+  parent = "Nous aider"
+  name = "Devenir bénévole"
+  url = "benevolat/"
+  weight = 1
+
+  [[main]]
+  parent = "Nous aider"
+  name = "Faire un don"
+  url = "don/"
+  weight = 2
+
+
+# footer menu
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "Mentions légales"
+url = "mentions/"
+weight = 2

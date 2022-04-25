@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.about }}
+{{ if .enable }}
+<section class="about section" style="text-align: justify;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="block">
+          <br>
+          {{ with .introduction }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+      </div>
+      
+      <div class="col-md-5 col-md-offset-1">
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .chambre_img | relURL }}">
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-5">
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .sdb_img | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6  col-md-offset-1">
+        <div class="block">
+          <br>
+          <br>
+          <br>
+          {{ with .pmr }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+    <div class="row">
+      <div class="col-md-6">
+        <br>
+        {{ with .restaurant }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+      </div>
+      <div class="col-md-5  col-md-offset-1">
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .restaurant_img | relURL }}">
+        </div>
+      </div>
+  </div>
+</div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ end }}

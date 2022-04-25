@@ -1,0 +1,50 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "Housing"
+url = "logement/"
+weight = 2
+
+[[main]]
+name = "Photos"
+url = "photos/"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[main]]
+weight = 4
+name = "Help us"
+hasChildren = true
+
+  [[main]]
+  parent = "Help us"
+  name = "Volunteering"
+  url = "benevolat/"
+  weight = 1
+
+  [[main]]
+  parent = "Help us"
+  name = "Donate"
+  url = "don/"
+  weight = 2
+
+# footer menu
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "Mentions"
+url = "mentions/"
+weight = 2

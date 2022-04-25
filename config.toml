@@ -1,0 +1,4 @@
+baseURL = "https://levallon.github.io/"
+defaultContentLanguage = 'fr'
+languageCode = "fr-fr"
+title = "Le Vallon"
