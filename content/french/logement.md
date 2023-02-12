@@ -30,8 +30,9 @@ about:
   - une terrasse pour pique-niquer et se décontracter<br>
   - une fontaine à eau en libre service<br>
   - un parking gratuit à l'usage des résidents<br>
-  <br>
-  Lorsque les conditions sanitaires le permettent, nous servons également un dîner dans notre salle de restaurant chaque jour à 20h (10€/personne)."
+  - proposition d'un petit-déjeuner buffet (5€)<br>
+  - proposition d'un repas le soir (10€)<br> 
+ "
 
 restaurant:
   enable : true
