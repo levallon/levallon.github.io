@@ -30,8 +30,8 @@ about:
   - a terrace to picnic or relax<br>
   - a freely accessible drinking fountain<br>
   - a free car park for residents<br>
-  <br><br>
-  When sanitary conditions allow, we serve a diner in the restaurant room, everyday at 8pm (10€/person)."
+  - a breakfast buffet (5€)<br>
+  - an offer of dinner (10€)<br>"
 
 restaurant:
   enable : true
