@@ -31,7 +31,7 @@ about:
   - une fontaine à eau en libre service<br>
   - un parking gratuit à l'usage des résidents<br>
   - proposition d'un petit-déjeuner buffet (5€)<br>
-  - proposition d'un repas le soir (10€)<br> 
+  - proposition d'un repas le soir (12€)<br> 
  "
 
 restaurant:
