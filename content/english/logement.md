@@ -31,7 +31,7 @@ about:
   - a freely accessible drinking fountain<br>
   - a free car park for residents<br>
   - a breakfast buffet (5€)<br>
-  - an offer of dinner (10€)<br>"
+  - an offer of dinner (12€)<br>"
 
 restaurant:
   enable : true
