@@ -26,7 +26,7 @@ about:
   - un accès Wi-Fi<br>
   - une bibliothèque<br>
   - un salon avec télévision grand écran et piano<br>
-  - un ordinateur en libre service<br>
+  - réfrigérateur, bouilloire et micro ondes à disposition<br>
   - une terrasse pour pique-niquer et se décontracter<br>
   - une fontaine à eau en libre service<br>
   - un parking gratuit à l'usage des résidents<br>
