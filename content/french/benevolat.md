@@ -18,6 +18,6 @@ about:
   content : "Chaque jour, samedis et dimanches compris, deux équipes de deux bénévoles se relaient pour compléter l'action de nos salariés. La première équipe, de 14h à 18h, assure l'accueil des résidents et aide au fonctionnement de l'établissement (permanence téléphonique, gestion des tâches courantes, etc). La deuxième équipe, de 18h à 21h, organise et sert le dîner lorsque la situation sanitaire permet d'assurer un service de restauration.<br><br>
   Les bénévoles peuvent proposer des activités ponctuelles ouvertes aux résidents et à l'ensemble des membres de l'association : musique, préparation de foie gras, décoration florale, pâtisserie, exposition photos, galette des rois, sophrologie,...<br><br>
   Nos bénévoles se rendent disponibles au moins deux fois par mois.<br><br>
-  Si vous souhaitez devenir bénévole, contactez-nous par téléphone au 05.61.55.44.92 ou par mail à secretaire.levallon@orange.fr."
+  Si vous souhaitez devenir bénévole, contactez-nous par téléphone au 05.61.55.44.92 ou par mail à rpbenevoles.levallon@orange.fr."
 
 ---
