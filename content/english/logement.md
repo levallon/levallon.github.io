@@ -26,7 +26,7 @@ about:
   - a WiFi access<br>
   - a library<br>
   - a living room with large screen TV and a piano<br>
-  - a computer in open access<br>
+  - refrigerator, kettle and microwave available<br>
   - a terrace to picnic or relax<br>
   - a freely accessible drinking fountain<br>
   - a free car park for residents<br>
